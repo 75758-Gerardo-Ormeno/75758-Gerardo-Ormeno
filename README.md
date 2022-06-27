@@ -1,4 +1,3 @@
-- Hi, I’m Gerardo Ormeno
-- I’m interested in web developing
+- Hi, I’m Gerardo Ormeño
+- I’m interested in front and back end developing
 - How to reach me: ormenogerardo1@gmail.com
-
